@@ -1,0 +1,19 @@
+.nav-btns {
+    margin: auto;
+}
+
+.nav-btns button {
+    background-color: blue;
+    color: white;
+}
+
+.nav-btns button:hover {
+    background-color: white;
+    color: blue;
+}
+
+.footer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}

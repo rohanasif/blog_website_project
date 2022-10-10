@@ -5,10 +5,11 @@
 }
 
 #blog-details {
-    color:orangered;
+    color: orangered;
 }
 
 .blog-content {
     padding-left: 20px;
     padding-right: 20px;
+    background-color: lightgray;
 }
