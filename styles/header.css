@@ -25,6 +25,8 @@ html, body {
 }
 #subscribe {
     float: right;
+    color: red;
+    font-size: 1.5em;
 }
 #subscribe:hover {
     color: black;

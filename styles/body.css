@@ -4,6 +4,10 @@
     padding-right: 30px;
 }
 
+.blog-heading {
+    text-decoration: underline;
+}
+
 #blog-details {
     color: orangered;
 }
