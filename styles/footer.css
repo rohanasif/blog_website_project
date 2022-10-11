@@ -5,6 +5,8 @@
 .nav-btns button {
     background-color: blue;
     color: white;
+    width: 100px;
+    height: 75px;
 }
 
 .nav-btns button:hover {
