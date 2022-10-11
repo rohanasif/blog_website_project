@@ -21,6 +21,8 @@ html, body {
     color: darkslategrey;
 }
 .top-navbar {
+    display: grid;
+    grid-area: auto;
     margin-right: 10px;
 }
 #subscribe {

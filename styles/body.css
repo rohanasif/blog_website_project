@@ -13,3 +13,21 @@
     padding-right: 20px;
     background-color: lightgray;
 }
+
+.topic-image {
+    width: 50%;
+}
+
+.captions {
+    color: navy
+}
+
+.card {
+    display:flex;
+
+}
+
+.form-div {
+    display: grid;
+    grid-area: auto;
+}
