@@ -68,3 +68,14 @@ display: block;
 .social-links {
     color: orangered;
 }
+
+@media(max-width: 412px) {
+        .cards-container {
+            display: flex;
+            flex-direction: column;
+        }
+        .card{
+            display: flex;
+            flex-direction: column;
+        }
+}
