@@ -15,7 +15,7 @@
 }
 
 .topic-image {
-    width: 50%;
+    width: 100%;
 }
 
 .captions {
@@ -30,4 +30,41 @@
 .form-div {
     display: grid;
     grid-area: auto;
+}
+
+.cards-container {
+    display: flex;
+}
+
+.blog-card {
+    margin: 20px;
+}
+
+.card-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.author-info {
+    align-self: center;
+}
+
+.avatar {
+    width: 20%;
+}
+
+.social {
+display: block;
+    width: 100px;
+    margin: auto;
+}
+
+.social-links {
+    color: orangered;
 }
